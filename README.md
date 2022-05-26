@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/Tayoakosile/credocentral-hackathon/image?description=1&amp;font=Raleway&amp;forks=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Charlie%20Brown&amp;pulls=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
-<p id="description">This Repo contains a working demo created by my team(Team River) for Credo's Africa Social Payment Hackathon.</p>
+<p id="description">This Repo contains a working demo created by my Team(Team River) for Credo's Africa Social Payment Hackathon.</p>
 
 <h2>🚀 Demo</h2>
 
@@ -10,9 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 <div style ="display:flex; width:100%; justify-content:space-between; align-items:center" >
-<img src="https://raw.githubusercontent.com/Tayoakosile/credocentral-hackathon/master/public/screenshot.png" alt="project-screenshot" width="100%" height="300/">
-
-<img src="https://raw.githubusercontent.com/Tayoakosile/credocentral-hackathon/master/public/screenshot3.png" alt="project-screenshot" width="100%" height="400/">
+<img src="https://raw.githubusercontent.com/Tayoakosile/credocentral-hackathon/master/public/screenshot.png" alt="project-screenshot" width="100%" height="100%">
 </div>
 
 <h2>🛠️ Installation Steps:</h2>
