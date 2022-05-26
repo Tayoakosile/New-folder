@@ -12,14 +12,9 @@ import React, { useEffect, useState } from 'react'
 import { AiFillFacebook, AiFillInstagram, AiFillTwitterCircle, AiOutlineInfoCircle } from 'react-icons/ai'
 import { BsPlusCircle } from 'react-icons/bs'
 import { Search, SkeletonBox } from '../../../components/Credo/Home'
-// import { Search, SkeletonBox } from '../../../components/Credo/Home'
 import useFetchHashtags from '../../../hooks/useFetchHashTags'
 import useGenerateNewHashTag from '../../../hooks/useGenerateNewHashTag'
 import useSearch from '../../../hooks/useSearch'
-// Search, 
-
-
-// const allTags =  []
 
 
 
@@ -69,9 +64,6 @@ const convertToMillion = (no) => {
     else {
         return no
     }
-
-    // console.log(str); //shows '012123'
-    // console.log(strFirstThree);
 }
 
 
@@ -90,7 +82,6 @@ const Post = () => {
     const { isOpen: isModalOpen, onOpen: onModalOpen, onClose: onModalClose } = useDisclosure()
 
     const { media: slug, slug: choice } = useRouter().query
-    console.log(slug, 'slug')
 
 
     return <HStack w='100%' h='100vh'

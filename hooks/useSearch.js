@@ -5,6 +5,7 @@ import { defaultHead } from "next/head"
 import { useState } from "react"
 
 
+// Bypass cors
 const corsURL = 'https://secure-brook-81937.herokuapp.com'
 
 const useSearch = () => {
