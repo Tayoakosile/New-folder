@@ -11,8 +11,6 @@
 <h2>Project Screenshots:</h2>
 <div style ="display:flex; width:100%; justify-content:space-between; align-items:center" >
 <img src="https://raw.githubusercontent.com/Tayoakosile/credocentral-hackathon/master/public/screenshot.png" alt="project-screenshot" width="100%" height="300/">
-
-<img src="https://raw.githubusercontent.com/Tayoakosile/credocentral-hackathon/master/public/screenshot3.png" alt="project-screenshot" width="100%" height="400/">
 </div>
 
 <h2>🛠️ Installation Steps:</h2>
