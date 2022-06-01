@@ -37,4 +37,4 @@ Technologies used in the project:
 *   Nextjs
 *   Chakra-UI
 *   Axios
-*   REST API - 
+*   REST API - Ritekit.com
